@@ -5,9 +5,8 @@
 ---
 
 ## 📂 笔记分类 (Categories)
-* [ ] **[嵌入式系统 (Embedded Systems)](https://github.com/czh010/c-embedded-learning)**：底层驱动与内核研究。
-* [ ] **[C语言(The C language)](https://github.com/czh010/c-embedded-learning)**：设计模式与分层思想。
-
+* [ ] **[嵌入式与C语言学习 ↗️](https://github.com/czh010/c-embedded-learning)**
+* [ ] **[随手记](./随手记/)**
 ## 🛠️ 近期目标 (Current Goals)
 - [x] 配置 GitHub 个人主页 (Profile Setup)
 - [ ] 整理本学期课程笔记 (Course Notes)
